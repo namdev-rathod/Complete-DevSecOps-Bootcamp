@@ -10,8 +10,6 @@ This hands-on bootcamp covers modern DevSecOps practices using GitHub CI/CD and 
 
 ⏱️ Total Duration: 20 Hours (2 hours per day)
 
-✅ Hands-on GitHub Labs
-
 📂 Project-based Repository
 
 💸 Fees: ~~₹7,999/-~~ **₹4,999/- Only**
