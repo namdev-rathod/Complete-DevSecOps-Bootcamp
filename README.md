@@ -6,6 +6,8 @@ This hands-on bootcamp covers modern DevSecOps practices using GitHub CI/CD and 
 
 ## 🎯 Course Highlights:
 
+### 📅 **Batch Starts**: **2nd August 2025 (Saturday)**
+
 🔥 10 Days | Sat–Sun Only
 
 ⏱️ Total Duration: 20 Hours (2 hours per day)
@@ -16,8 +18,9 @@ This hands-on bootcamp covers modern DevSecOps practices using GitHub CI/CD and 
 
 📲 Register via WhatsApp: 7276 12 1983
 
-
 📍 Limited Seats | Live + Practical | Career-Focused
+
+🎁 **Early Bird Offer – Limited Seats Available**
 
 ---
 
