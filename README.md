@@ -4,6 +4,25 @@ This hands-on bootcamp covers modern DevSecOps practices using GitHub CI/CD and 
 
 ---
 
+## 🎯 Course Highlights:
+
+🔥 10 Days | Sat–Sun Only
+
+⏱️ Total Duration: 20 Hours (2 hours per day)
+
+✅ Hands-on GitHub Labs
+
+📂 Project-based Repository
+
+💸 Fees: ~~₹7,999/-~~ **₹4,999/- Only**
+
+📲 Register via WhatsApp: 7276 12 1983
+
+
+📍 Limited Seats | Live + Practical | Career-Focused
+
+---
+
 ## 🔰 Week 1 – DevSecOps Foundation
 
 ### 📅 Day 1: DevSecOps 101 & GitHub CI/CD
@@ -32,6 +51,7 @@ This hands-on bootcamp covers modern DevSecOps practices using GitHub CI/CD and 
 ### 📅 Day 4: Container Image Scanning
 - 🐳 Secure Dockerfiles and images with **Trivy**
 - 🧰 Use **Docker Bench Security** for runtime checks
+- Secret Detection
 
 ---
 
@@ -91,7 +111,6 @@ This hands-on bootcamp covers modern DevSecOps practices using GitHub CI/CD and 
 | ☁️ AWS Security | SSO, GuardDuty, WAF |
 | 🔍 Logging | CloudWatch, ELK/Loki |
 | 🧠 AI Security | GitHub Copilot, Anomaly Detection |
-| ☸️ Optional | Kubernetes, OPA/Gatekeeper |
 
 ---
 
@@ -101,7 +120,7 @@ By the end of this bootcamp, you'll be able to:
 
 ✅ Build secure GitHub CI/CD pipelines  
 ✅ Integrate security at every stage of SDLC  
-✅ Scan, alert, and fix issues automatically  
+✅ Scan, alert and fix issues automatically  
 ✅ Leverage AI for code and pipeline hardening  
 ✅ Present real-world secure DevSecOps projects to employers
 
